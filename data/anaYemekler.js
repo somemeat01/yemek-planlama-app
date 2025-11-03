@@ -13,5 +13,19 @@ export default [
       resim: require("../assets/bonfile.jpeg"),
       video: "https://youtube.com/some-video-bonfile",
     },
+    {
+      id: "a3",
+      isim: "Ahtapot",
+      malzemeler: ["Ahtapot", "Zeytinyağı", "Limon", "Sarımsak"],
+      resim: require("../assets/ahtapot.jpeg"),
+      video: "https://youtube.com/some-video-ahtapot",
+    },
+    {
+      id: "3",
+      isim: "İtalyan Makarna",
+      malzemeler: ["Makarna", "Domates", "Zeytinyağı"],
+      resim: require("../assets/makarna.jpeg"),
+      video: "https://youtube.com/some-video-makarna",
+    }
   ];
   

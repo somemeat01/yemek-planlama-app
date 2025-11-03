@@ -3,7 +3,7 @@ export default [
       id: "t1",
       isim: "Sütlaç",
       malzemeler: ["Süt", "Pirinç", "Şeker", "Vanilin"],
-      resim: require("../assets/sutlac.jpepata1g"),
+      resim: require("../assets/sutlac.jpeg"),
       video: "https://www.youtube.com/watch?v=9El5iV9M9z8",
     },
     {
